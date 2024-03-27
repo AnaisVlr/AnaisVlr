@@ -1,4 +1,4 @@
-# :hibiscus: Anaïs | Passionate Software Engineer :hibiscus:
+# :hibiscus: Anaïs | Software Engineer & UX/UI Designer :hibiscus:
 
 Hi there! I'm Anaïs, a software engineer passionate about creating web solutions. With a degree in computer science, I thrive as an UX/UI designer and full-stack engineer. I'm particularly invested in the fields of health and ecology, seeking to bring innovative solutions to improve people's lives and protect our planet. :earth_africa:
 
